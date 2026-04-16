@@ -1,7 +1,7 @@
 #Socisl Manager
 
-##Description
-This is a Social media scheduler and analytics project 
+##Description  
+- This is a Social media scheduler and analytics project 
 
 ##TechStack
 - **Language** : Python
